@@ -1,0 +1,333 @@
+<mxfile host="app.diagrams.net" modified="2023-09-27T12:19:30.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DCI_rVpqImBAi8ImiLjH" version="21.8.2" type="github" pages="4">
+  <diagram name="Règles globales " id="QocvjojzJQhdpQmzkA6g">
+    <mxGraphModel dx="988" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eo5v1HKuKHCWtC8rtNga-1" target="eo5v1HKuKHCWtC8rtNga-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-1" value="Début" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="40" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-2" value="Fin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="230" y="990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="eo5v1HKuKHCWtC8rtNga-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="225" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="eo5v1HKuKHCWtC8rtNga-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="225" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-6" value="1d6: le plus gros score&lt;br&gt;commence" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="170" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-9" value="&lt;h1&gt;Jeu de l&#39;oie&lt;/h1&gt;&lt;div&gt;Un joueur contre l&#39;ordi&lt;/div&gt;&lt;div&gt;But du jeu: le premier à atteindre la case 63 a gagné&lt;/div&gt;&lt;div&gt;Pour avancer: on lance deux dés&lt;/div&gt;&lt;div&gt;Règles lancé de dés&lt;/div&gt;&lt;div&gt;Règles des différentes cases sur&amp;nbsp; lesquelles on va tomber&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="30" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eo5v1HKuKHCWtC8rtNga-12" target="eo5v1HKuKHCWtC8rtNga-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-12" value="2d6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eo5v1HKuKHCWtC8rtNga-13" target="eo5v1HKuKHCWtC8rtNga-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-13" value="clique sur les dés pour lancer 2d6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-14" value="L&#39;ordi commence" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="20" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-15" value="L&#39;humain commence" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="414" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eo5v1HKuKHCWtC8rtNga-18" target="eo5v1HKuKHCWtC8rtNga-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-18" value="Le pion de l&#39;ordi avance du nombre affiché par les 2d6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eo5v1HKuKHCWtC8rtNga-19" target="eo5v1HKuKHCWtC8rtNga-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-19" value="Le pion du joueur avance du nombre affiché par les 2d6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eo5v1HKuKHCWtC8rtNga-23" target="eo5v1HKuKHCWtC8rtNga-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eo5v1HKuKHCWtC8rtNga-23" target="eo5v1HKuKHCWtC8rtNga-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-23" value="Arrivée à la case 63" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="795" width="180" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eo5v1HKuKHCWtC8rtNga-25" target="eo5v1HKuKHCWtC8rtNga-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-25" value="Le joueur a perdu" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eo5v1HKuKHCWtC8rtNga-26" target="eo5v1HKuKHCWtC8rtNga-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-26" value="Le joueur a gagné" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eo5v1HKuKHCWtC8rtNga-34" target="eo5v1HKuKHCWtC8rtNga-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-34" value="clique sur les dés pour lancer 2d6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eo5v1HKuKHCWtC8rtNga-35" target="eo5v1HKuKHCWtC8rtNga-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-35" value="Le pion du joueur avance du nombre affiché par les 2d6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="eo5v1HKuKHCWtC8rtNga-36" target="eo5v1HKuKHCWtC8rtNga-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-36" value="Le pion de l&#39;ordi avance du nombre affiché par les 2d6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eo5v1HKuKHCWtC8rtNga-37" target="eo5v1HKuKHCWtC8rtNga-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-37" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;2d6&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-44" value="Ordi en premier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="800" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-45" value="Joueur en premier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="354" y="800" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eo5v1HKuKHCWtC8rtNga-47" target="eo5v1HKuKHCWtC8rtNga-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-47" value="Image de fin loose" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eo5v1HKuKHCWtC8rtNga-50" target="eo5v1HKuKHCWtC8rtNga-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-50" value="Image de fin win" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eo5v1HKuKHCWtC8rtNga-53" target="eo5v1HKuKHCWtC8rtNga-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-53" value="LANCER DE DÉS&amp;nbsp;&lt;br&gt;SUCCESSIFS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-55" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lancés de dés&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;On détermine qui de l&#39;ordi ou du joueur lance les dés en premier, puis les dés sont lancés successivement jusqu&#39;à ce que l&#39;ordi ou le joueur arrive sur la case 63&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="40" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eo5v1HKuKHCWtC8rtNga-56" target="eo5v1HKuKHCWtC8rtNga-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-56" value="LANCER DE DÉS SUCCESSIFS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="220" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5v1HKuKHCWtC8rtNga-59" value="&lt;h1&gt;La Victoire&lt;/h1&gt;&lt;div&gt;La partie s&#39;arrête quand l&#39;ordi ou le joueur arrive sur la case 63&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="670" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HY-v0x25650cfXbG8qMx" name="Les cases spéciales">
+    <mxGraphModel dx="988" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fQFJhHJcQZ098hA1WF46-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQFJhHJcQZ098hA1WF46-21" target="fQFJhHJcQZ098hA1WF46-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-21" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-205" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQFJhHJcQZ098hA1WF46-20" target="fQFJhHJcQZ098hA1WF46-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-20" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-355" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQFJhHJcQZ098hA1WF46-19" target="fQFJhHJcQZ098hA1WF46-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="-445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-19" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-510" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQFJhHJcQZ098hA1WF46-18" target="fQFJhHJcQZ098hA1WF46-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-18" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-660" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQFJhHJcQZ098hA1WF46-17" target="fQFJhHJcQZ098hA1WF46-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-17" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-835" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fQFJhHJcQZ098hA1WF46-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="-925" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-16" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-990" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-1" value="&lt;h1&gt;Les cases spéciales&lt;/h1&gt;&lt;p&gt;Il s&#39;agit de cases qui ont des propriétés spéciales, bénéfiques ou non pour les joueurs.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-1140" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-2" value="Les cases KOTOPOULO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-3" value="Les cases&lt;br&gt;BOUCHER" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-4" value="Les cases&lt;br&gt;PASTEQUES" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-5" value="La case&lt;br&gt;PLUME DU BONHEUR" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-6" value="La case&amp;nbsp;&lt;br&gt;PASTEQUE POURRIE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-7" value="La case&amp;nbsp;&lt;br&gt;RENARD MALÉFIQUE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-9" value="Cases&lt;br&gt;9 - 18 - 27 - 36 - 45 - 54" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-940" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-10" value="Cases&amp;nbsp;&lt;br&gt;19 - 31 - 52&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-780" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-11" value="Cases&amp;nbsp;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-620" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-12" value="Case&amp;nbsp;&lt;br&gt;6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-470" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-13" value="Case&lt;br&gt;42" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-320" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-14" value="Case&lt;br&gt;58" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-23" value="Le joueur avance d&#39;autant de cases que son précédent lancé" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-962.5" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-24" value="Le joueur s&#39;est fait attraper par un boucher!&lt;br&gt;Le joueur passe un tour le temps de trouver une issue" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-810" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-26" value="Déco" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-635" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-27" value="Le joueur avance à la case 12" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-485" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-28" value="Le joueur mange une pastèque pourrie. Pris de délire, il retourne case 30 pensant se diriger vers la victoire." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-330" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-29" value="Le joueur se retrouve face à un renard, qui n&#39;en fait qu&#39;une bouchée. Retour à la case 0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-180" width="170" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="n_qMmNHrJ51Uv2JxdtRv" name="Les lancés spéciaux">
+    <mxGraphModel dx="988" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_Zr8IBoTIUqeZtMwk9Uv-1" value="&lt;h1&gt;Lancés spéciaux&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Si le joueur obtiens 9 points lors de son premier lancé, il agit comme suit, en fonction de la combinaison de dés:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_Zr8IBoTIUqeZtMwk9Uv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_Zr8IBoTIUqeZtMwk9Uv-3" target="_Zr8IBoTIUqeZtMwk9Uv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Zr8IBoTIUqeZtMwk9Uv-3" value="4 + 5" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_Zr8IBoTIUqeZtMwk9Uv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_Zr8IBoTIUqeZtMwk9Uv-4" target="_Zr8IBoTIUqeZtMwk9Uv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Zr8IBoTIUqeZtMwk9Uv-4" value="6 + 3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_Zr8IBoTIUqeZtMwk9Uv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Zr8IBoTIUqeZtMwk9Uv-5" target="_Zr8IBoTIUqeZtMwk9Uv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Zr8IBoTIUqeZtMwk9Uv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Zr8IBoTIUqeZtMwk9Uv-5" target="_Zr8IBoTIUqeZtMwk9Uv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Zr8IBoTIUqeZtMwk9Uv-5" value="9&amp;nbsp;&lt;br&gt;au premier lancé" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_Zr8IBoTIUqeZtMwk9Uv-6" value="Le joueur doit se rendre case 53" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_Zr8IBoTIUqeZtMwk9Uv-8" value="Le joueur doit se rendre case 26" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EDenzIn301qYWH0pT8aI" name="Galères">
+    <mxGraphModel dx="988" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="baJIXK0m3THEuxitW3Ie-1" value="&lt;h1&gt;Sur la même case&lt;/h1&gt;&lt;p&gt;Deux joueurs ne peuvent pas se trouver sur la même case.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="baJIXK0m3THEuxitW3Ie-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="baJIXK0m3THEuxitW3Ie-2" target="baJIXK0m3THEuxitW3Ie-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="baJIXK0m3THEuxitW3Ie-2" value="ordi et joueur &lt;br&gt;sur la même case" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="90" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="baJIXK0m3THEuxitW3Ie-3" value="Le joueur qui arrive recule d&#39;une case" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="baJIXK0m3THEuxitW3Ie-5" value="&lt;h1&gt;Case 63&lt;/h1&gt;&lt;p&gt;Le joueur doit arriver pile sur la case 63 pour remporter la partie&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="420" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="baJIXK0m3THEuxitW3Ie-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="baJIXK0m3THEuxitW3Ie-6" target="baJIXK0m3THEuxitW3Ie-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="baJIXK0m3THEuxitW3Ie-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="baJIXK0m3THEuxitW3Ie-6" target="baJIXK0m3THEuxitW3Ie-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="baJIXK0m3THEuxitW3Ie-6" value="case 63" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="baJIXK0m3THEuxitW3Ie-7" value="Gagné" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="baJIXK0m3THEuxitW3Ie-9" value="Pile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="468" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="baJIXK0m3THEuxitW3Ie-10" value="On recule du nombre de case indiqué par le lancé de dés" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="baJIXK0m3THEuxitW3Ie-12" value="Pas pile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="468" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
