@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T11:58:56.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="lgx6vcWLlXYzUKyuAaiV" version="21.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-27T12:02:57.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="s4YVOIfKy8Y889SN86uc" version="21.8.2" type="github" pages="2">
   <diagram name="Page-1" id="QocvjojzJQhdpQmzkA6g">
     <mxGraphModel dx="988" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,14 +148,28 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fQFJhHJcQZ098hA1WF46-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQFJhHJcQZ098hA1WF46-21" target="fQFJhHJcQZ098hA1WF46-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fQFJhHJcQZ098hA1WF46-21" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="10" y="-205" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQFJhHJcQZ098hA1WF46-20" target="fQFJhHJcQZ098hA1WF46-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fQFJhHJcQZ098hA1WF46-20" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="10" y="-355" width="290" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQFJhHJcQZ098hA1WF46-19" target="fQFJhHJcQZ098hA1WF46-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="-445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fQFJhHJcQZ098hA1WF46-19" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="20" y="-510" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQFJhHJcQZ098hA1WF46-18" target="fQFJhHJcQZ098hA1WF46-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fQFJhHJcQZ098hA1WF46-18" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="20" y="-660" width="290" height="130" as="geometry" />
@@ -218,6 +232,18 @@
         </mxCell>
         <mxCell id="fQFJhHJcQZ098hA1WF46-24" value="Le joueur s&#39;est fait attraper par un boucher!&lt;br&gt;Le joueur passe un tour le temps de trouver une issue" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="-810" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-26" value="???" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-635" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-27" value="Le joueur avance à la case 12" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-485" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-28" value="Le joueur mange une pastèque pourrie. Pris de délire, il retourne case 30 pensant se diriger vers la victoire." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-330" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fQFJhHJcQZ098hA1WF46-29" value="Le joueur se retrouve face à un renard, qui n&#39;en fait qu&#39;une bouchée. Retour à la case 0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-180" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
