@@ -14,7 +14,8 @@ Idée: Inspiré du jeu de l'oie, mais avec des poulets et des pastèques.
       Une case amie existe cependant:
           - Kotopoulo ami: ajoute 10 au score. 
 
-
+LIEN SCRATCH:
+https://scratch.mit.edu/projects/901429055
 
       
 ![Kotopoulo kai Karpouzi](https://github.com/MartineJA/KotopouloBoardGame/assets/145664478/e042c659-d8e1-47d0-a39c-b649bfc25b13)
